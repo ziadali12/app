@@ -28,7 +28,7 @@ class SignupScreen extends StatelessWidget {
                   child: Stack(
                     alignment: Alignment.center,
                     children: <Widget>[
-                      Image(image: AssetImage('images/icons/buyicon.png'),
+                      Image(image: AssetImage('photo/icons8-add-shopping-cart-100.png'),
                       ),
                       Positioned(
                           bottom: 0,
